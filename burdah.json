@@ -1,0 +1,1206 @@
+{
+    "metadata": {
+        "title": "Qashidah Maulid Burdah",
+        "author": "Imam Syarafuddin Abu Abdillah Muhammad bin Zaid Al-Bushiri",
+        "total_fasl": 10,
+        "total_bait": 160
+    },
+    "refrain": {
+        "arab": "مَوْلَايَ صَلِّ وَسَلِّمْ دَائِمًا أَبَدًا ۞ عَلَى حَبِيْبِكَ خَيْرِ الْخَلْقِ كُلِّهِمِ",
+        "latin": "Maulâya shalli wa sallim dâiman abadâ ۞ 'alâ ḫabîbika khairil-khalqi kullihimi.",
+        "terjemahan": "Ya Tuhanku, limpahkanlah selalu rahmat ta'dhim dan keselamatan atas kekasih-Mu, yang terbaik di antara seluruh makhluk.",
+        "audio_url": ""
+    },
+    "data": [
+        {
+            "fasl_number": 1,
+            "title_id": "Bercumbu dan Mengadukan Cinta",
+            "title_ar": "في الغزل وشكوى الغرام",
+            "baits": [
+                {
+                    "bait_number": 1,
+                    "arab": "أَمِنْ تَذَكُّــرِ جــــيْرَانٍ بِذِيْ ســــلَمِ ۞ مَزَجْتَ دَمْعًا جَرَى مِنْ مُقْلَةٍ بِـــدَمِ",
+                    "latin": "Amin tadzakkuri jîrânin bidzî salami ۞ mazajta dam'an jarâ min muqlatin bidami.",
+                    "terjemahan": "Apakah karena mengingat para kekasih di Dzi Salam sana, engkau deraikan air mata yang bercampur dengan darah duka.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 2,
+                    "arab": "أَمْ هَبَّتِ الرِّيْحُ مِنْ تِلْقَـاءِ كَاظِمَـةٍ ۞ وَأَوْمَضَ الْبَرْقُ فِيْ الْظَلْمَآءِ مِنْ إِضَـمِ",
+                    "latin": "Am habbatir-rîḫu min tilqâ'i kâdzimatin ۞ wa aumadlal-barqu fidl-dhalmâ'i min idlami.",
+                    "terjemahan": "Ataukah karena hembusan angin yang terarah lurus berjumpa di Kadhimah. Dan kilatan cahaya gulita malam dari kedalaman jurang Idham.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 3,
+                    "arab": "فَمَا لِعَيْنَيْكَ إِنْ قُلْتَ اكْفُفَا هَمَتَا ۞ وَمَا لِقَلْبِكَ إِنْ قُلْتَ اسْتَفِقْ يَهِـمِ",
+                    "latin": "Famâ li'ainayka in qultakfufâ hamatâ ۞ wamâ liqalbika in qultastafiq yahimi.",
+                    "terjemahan": "Lalu kenapa dengan kedua matamu, padahal engkau telah berusaha menahan tangisnya namun tetap saja meneteskan air mata. Dan ada apa dengan hatimu, padahal engkau telah menasihatinya untuk sadar namun tetap saja gundah gulana.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 4,
+                    "arab": "أَيَحْسَبُ الصَّبُّ أَنَّ الْحُبَّ مُنْكَتِــمٌ ۞ مَا بَيْنَ مُنْسَجِمٍ مِنْهُ وَمُضْطَـرِمِ",
+                    "latin": "Ayaḫsabusy-shabbu annal-ḫubba munkatimun ۞ mâ baina munsajimin minhu wamudltarimi.",
+                    "terjemahan": "Apakah orang yang dimabuk cinta mengira bahwa cinta itu bisa disembunyikan. Di antara tetesan air mata dan hati yang terbakar kerinduan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 5,
+                    "arab": "لَوْلَا الْهَوَى لَمْ تُرِقْ دَمْعاً عَلَى طَلَلِ ۞ وَلَا أَرِقْتَ لِذِكْرِ الْبَانِ وَالْعَلَمِ",
+                    "latin": "Laulal-hawâ lam turiq dam'an 'alâ thalali ۞ wa lâ ariqta lidzikril-bâni wal-'alami.",
+                    "terjemahan": "Kalaulah bukan karena cinta, tidaklah mungkin engkau teteskan air mata di atas puing-puing kenangan, dan tak pula engkau terjaga sepanjang malam karena mengingat pepohonan Ban dan Gunung 'Alam.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 6,
+                    "arab": "فَكَيْفَ تُنْكِرُ حُبًّا بَعْدَ مَا شَهِدَتْ ۞ بِهِ عَلَيْكَ عُدُوْلُ الدَّمْعِ وَالسَّقَمِ",
+                    "latin": "Fakaifa tunkiru ḫubban ba'da mâ syahidat ۞ bihi 'alaika 'udûlud-dam'i was-saqami.",
+                    "terjemahan": "Maka bagaimana engkau dapat memungkiri cinta, sedangkan air mata dan sakitmu (karena rindu) telah menjadi saksi adil atas dirimu.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 7,
+                    "arab": "وَأَثْبَتَ الْوَجْدُ خَطَّيْ عَبْرَةٍ وَضَنًى ۞ مِثْلَ الْبَهَارِ عَلَى خَدَّيْكَ وَالْعَنَمِ",
+                    "latin": "Wa atsbatal-wajdu khaththai 'abratin wadlanâ ۞ mitslal-bahâri 'alâ khaddaika wal-'anami.",
+                    "terjemahan": "Dan kesedihan cinta telah menorehkan dua garis air mata dan penderitaan, seperti bunga Bahar (pucat) dan buah 'Anam (merah) pada kedua pipimu.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 8,
+                    "arab": "نَعَمْ سَرَى طَيْفُ مَنْ أَهْوَى فَأَرَّقَنِيْ ۞ وَالْحُبُّ يَعْتَرِضُ اللَّذَّاتِ بِالْأَلَمِ",
+                    "latin": "Na'am sarâ thaifu man ahwâ fa'arraqanî ۞ wal-ḫubbu ya'taridlul-ladzdâti bil-alami.",
+                    "terjemahan": "Ya, memang benar bayangan orang yang kucintai datang di malam hari lalu membuatku terjaga. Dan cinta memang selalu merintangi kelezatan dengan rasa sakit.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 9,
+                    "arab": "يَا لَائِمِيْ فِيْ الْهَوَى الْعُذْرِيِّ مَعْذِرَةً ۞ مِنِّيْ إِلَيْكَ وَلَوْ أَنْصَفْتَ لَمْ تَلُمِ",
+                    "latin": "Yâ lâ'imî fil-hawâl-'udzriyyi ma'dziratan ۞ minnî ilaika walau anshafta lam talumi.",
+                    "terjemahan": "Wahai orang yang mencelaku karena cinta suci ini, terimalah permintaan maafku. Seandainya engkau bersikap adil, tentulah engkau tidak akan mencelaku.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 10,
+                    "arab": "عَدَتْكَ حَالِيْ لَا سِرِّيْ بِمُسْتَتِرٍ ۞ عَنِ الْوُشَاةِ وَلَا دَائِيْ بِمُنْحَسِمِ",
+                    "latin": "'Adatka ḫâlî lâ sirrî bimustatarin ۞ 'anil-wusyâti walâ dâ'î bimunḫasimi.",
+                    "terjemahan": "Keadaanku telah jelas bagimu, rahasiaku pun tak tersembunyi lagi dari para pemfitnah, dan penyakit (cinta) ku ini tidak kunjung sembuh.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 11,
+                    "arab": "مَحَّضْتَنِيْ النُّصْحَ لٰكِنْ لَسْتُ أَسْمَعُهُ ۞ إِنَّ الْمُحِبَّ عَنِ الْعُذَّالِ فِيْ صَمَمِ",
+                    "latin": "Maḫḫadhtanîn-nushḫa lâkin lastu asma'uhu ۞ innal-muḫibba 'anil-'udzzâli fî shamami.",
+                    "terjemahan": "Engkau telah memberiku nasihat yang tulus, namun aku tidak dapat mendengarnya. Sesungguhnya orang yang sedang mabuk cinta itu tuli dari celaan orang-orang yang mencela.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 12,
+                    "arab": "إِنِّي اتَّهَمْتُ نَصِيْحَ الشَّيْبِ فِيْ عَذَلِيْ ۞ وَالشَّيْبُ أَبْعَدُ نَصِيْحٍ عَنِ التُّهَمِ",
+                    "latin": "Innit-tahamtu nashîḫasy-syaibi fî 'adzalî ۞ wasy-syaibu ab'adu nashîḫin 'anit-tuhami.",
+                    "terjemahan": "Sesungguhnya aku telah mencurigai nasihat uban (masa tua) dalam mencelaku. Padahal uban adalah penasihat yang paling jauh dari kecurigaan dusta.",
+                    "audio_url": ""
+                }
+            ]
+        },
+        {
+            "fasl_number": 2,
+            "title_id": "Peringatan Tentang Bahaya Hawa Nafsu",
+            "title_ar": "في التحذير من هوى النفس",
+            "baits": [
+                {
+                    "bait_number": 13,
+                    "arab": "فَإِنَّ أَمَّارَتِيْ بِالسُّوْءِ مَا اتَّعَظَتْ ۞ مِنْ جَهْلِهَا بِنَذِيْرِ الشَّيْبِ وَالْهَرَمِ",
+                    "latin": "Fa inna ammâratî bis-sû'i mât-ta'adhat ۞ min jahlihâ binadzîrisy-syaibi wal-harami.",
+                    "terjemahan": "Sungguh nafsu amarahku tidak mau menerima nasehat. Karena ketidaktahuannya terhadap peringatan berupa uban dan masa tua.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 14,
+                    "arab": "وَلَا أَعَدَّتْ مِنَ الْفِعْلِ الْجَمِيْلِ قِرَى ۞ ضَيْفٍ أَلَمَّ بِرَأْسِيْ غَيْرَ مُحْتَشِمِ",
+                    "latin": "Walâ a'addat minal-fi'lil-jamîli qirâ ۞ dlaifin alamma bira'sî ghaira muḫtasyimi.",
+                    "terjemahan": "Nafsu amarahku tak mampu bersiap-siap diri dengan amal baik. Untuk menyambut tamu (uban) yang singgah di kepala tanpa malu lagi.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 15,
+                    "arab": "لَوْ كُنْتُ أَعْلَمُ أَنِّيْ مَا أُوَقِّرُهُ ۞ كَتَمْتُ سِرًّا بَدَا لِيْ مِنْهُ بِالْكَتَمِ",
+                    "latin": "Lau kuntu a'lamu annî mâ uwaqqiruhu ۞ katamtu sirran badâ lî minhu bil-katami.",
+                    "terjemahan": "Jikalau aku tahu bahwa diriku tak mampu menghormati tamu itu. Maka lebih baik kusembunyikan rahasiaku dengan menyemir uban di kepalaku.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 16,
+                    "arab": "مَنْ لِيْ بِرَدِّ جِمَاحٍ مِنْ غَوَايَتِهَا ۞ كَمَا يُرَدُّ جِمَاحُ الْخَيْلِ بِاللُّجُمِ",
+                    "latin": "Man lî biraddi jimâḫin min ghawâyatihâ ۞ kamâ yuraddu jimâḫul-khaili bil-lujumi.",
+                    "terjemahan": "Siapakah gerangan yang sanggup mengendalikan nafsuku dari kesesatan. Sebagaimana kuda liar yang terkendalikan dengan tali kekangan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 17,
+                    "arab": "فَلَا تَرُمْ بِالْمَعَاصِيْ كَسْرَ شَهْوَتِهَا ۞ إِنَّ الطَّعَامَ يُقَوِّيْ شَهْوَةَ النَّهِمِ",
+                    "latin": "Falâ tarum bil-ma'âshî kasra syahwatihâ ۞ innath-tha'âma yuqawwî syahwatan-nahimi.",
+                    "terjemahan": "Jangan kau berharap dapat mematahkan nafsu dengan maksiat. Karena makanan justru bisa memperkuat bagi si rakus makanan lezat.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 18,
+                    "arab": "وَالنَّفْسُ كَالطِّفْلِ إِنْ تُهْمِلْهُ شَبَّ عَلَى ۞ حُبِّ الرَّضَاعِ وَإِنْ تَفْطِمْهُ يَنْفَطِمِ",
+                    "latin": "Wan-nafsu kath-thifli in tuhmilhu syabba 'alâ ۞ ḫubbir-radlâ'i wa in taftshimhu yanfashimi.",
+                    "terjemahan": "Nafsu itu bagaikan bayi, bila kau biarkan akan tetap suka menyusu hingga besar. Namun bila kau sapih, maka ia akan berhenti sendiri.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 19,
+                    "arab": "فَاصْرِفْ هَوَاهَا وَحَاذِرْ أَنْ تُوَلِّيَهُ ۞ إِنَّ الْهَوَى مَا تَوَلَّى يُصْمِ أَوْ يَصِمِ",
+                    "latin": "Fashrif hawâhâ wa ḫâdzir an tuwalliyahu ۞ innal-hawâ mâ tawallâ yushmi au yashimi.",
+                    "terjemahan": "Maka palingkanlah nafsumu, dan takutlah jangan sampai ia menguasai. Sesungguhnya hawa nafsu itu, jikalau berkuasa maka akan membunuhmu atau membuatmu tercela.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 20,
+                    "arab": "وَرَاعِهَا وَهْيَ فِيْ الْأَعْمَالِ سَائِمَةٌ ۞ وَإِنْ هِيَ اسْتَحْلَتِ الْمَرْعَى فَلَا تُسِمِ",
+                    "latin": "Wa râ'ihâ wahya fîl-a'mâli sâ'imatun ۞ wa in hiyastaḫlatil-mar'â falâ tusimi.",
+                    "terjemahan": "Gembalakanlah nafsu, karena dalam beramal ia bagaikan hewan ternak. Jika ia merasa nyaman dalam kebaikan, maka tetap jaga dan jangan kau lengah membiarkannya merumput (berbuat semaunya).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 21,
+                    "arab": "كَمْ حَسَّنَتْ لَذَّةً لِلْمَرْءِ قَاتِلَةً ۞ مِنْ حَيْثُ لَمْ يَدْرِ أَنَّ السَّمَّ فِيْ الدَّسَمِ",
+                    "latin": "Kam ḫassanat ladzdzatan lilmar'i qâtilatan ۞ min ḫaitsu lam yadri annas-samma fîd-dasami.",
+                    "terjemahan": "Betapa banyak kelezatan yang justru membawa kematian bagi seseorang. Tanpa disadari bahwa ada racun tersimpan di dalam makanan berlemak (yang lezat).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 22,
+                    "arab": "فَاخْشَ الدَّسَائِسَ مِنْ جُوْعٍ وَمِنْ شِبَعٍ ۞ فَرُبَّ مَخْمَصَةٍ شَرٌّ مِنَ التُّخَمِ",
+                    "latin": "Fakhsyad-dasâ'isa min jû'in wamin syiba'in ۞ farubba makhmasyatin syarrun minat-tukhami.",
+                    "terjemahan": "Takutlah terhadap tipu daya dari rasa lapar dan kenyang. Sebab terkadang rasa lapar lebih buruk akibatnya daripada terlalu kenyang.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 23,
+                    "arab": "وَاسْتَفْرِغِ الدَّمْعَ مِنْ عَيْنٍ قَدِ امْتَلَأَتْ ۞ مِنَ الْمَحَارِمِ وَالْزَمْ حِمْيَةَ النَّدَمِ",
+                    "latin": "Wastafrighid-dam'a min 'ainin qadimtala'at ۞ minal-maḫârimi walzam ḫimyatan-nadami.",
+                    "terjemahan": "Kuraslah air mata dari mata yang telah penuh melihat perkara haram. Dan biasakanlah (dirimu) menahan hawa nafsu dengan rasa penyesalan (taubat).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 24,
+                    "arab": "وَخَالِفِ النَّفْسَ وَالشَّيْطَانَ وَاعْصِهِمَا ۞ وَإِنْ هُمَا مَحَّضَاكَ النُّصْحَ فَاتَّهِمِ",
+                    "latin": "Wa khâlifin-nafsa wasy-syaithâna wa'shihimâ ۞ wa in humâ maḫḫadlâkan-nushḫa fattahimi.",
+                    "terjemahan": "Lawanlah hawa nafsu dan setan durhaka, serta awasilah keduanya. Jika keduanya memberimu nasihat yang terlihat tulus, maka curigailah.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 25,
+                    "arab": "وَلَا تُطِعْ مِنْهُمَا خَصْمًا وَلَا حَكَمًا ۞ فَأَنْتَ تَعْرِفُ كَيْدَ الْخَصْمِ وَالْحَكَمِ",
+                    "latin": "Walâ tuthi' minhumâ khasman walâ ḫakaman ۞ fa'anta ta'rifu kaidal-khasmi wal-ḫakami.",
+                    "terjemahan": "Janganlah kau taati keduanya, baik sebagai musuh maupun sebagai hakim (pemutus perkara). Sebab engkau sudah tahu betul bagaimana tipu daya seorang musuh dan hakim (yang tidak adil).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 26,
+                    "arab": "أَسْتَغْفِرُ اللهَ مِنْ قَوْلٍ بِلَا عَمَلٍ ۞ لَقَدْ نَسَبْتُ بِهِ نَسْلًا لِذِيْ عُقُمِ",
+                    "latin": "Astaghfirullâha min qaulin bilâ 'amalin ۞ laqad nasabtu bihi naslan lidzî 'uqumi.",
+                    "terjemahan": "Aku memohon ampun kepada Allah dari ucapan (nasihat) yang tak disertai amal perbuatan. Sungguh dengan begitu, aku bagaikan menisbahkan keturunan pada orang yang mandul.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 27,
+                    "arab": "أَمَرْتُكَ الْخَيْرَ لٰكِنْ مَا ائْتَمَرْتُ بِهِ ۞ وَمَا اسْتَقَمْتُ فَمَا قَوْلِيْ لَكَ اسْتَقِمِ",
+                    "latin": "Amartukal-khaira lâkin mâ'tamartu bihi ۞ wamâstaqamtu famâ qaulî lakastaqimi.",
+                    "terjemahan": "Aku memerintahkan kebaikan kepadamu, namun aku sendiri tidak mengerjakannya. Dan aku belum istiqomah, maka apalah gunanya ucapanku padamu \"beristiqomahlah!\".",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 28,
+                    "arab": "وَلَا تَزَوَّدْتُ قَبْلَ الْمَوْتِ نَافِلَةً ۞ وَلَمْ أُصَلِّ سِوَى فَرْضٍ وَلَمْ أَصُمِ",
+                    "latin": "Walâ tazawwadtu qablal-mauti nâfilatan ۞ walam ushalli siwâ fardlin walam ashumi.",
+                    "terjemahan": "Dan aku tidak menambah bekal amal ibadah sunnah sebelum kematian (datang). Aku pun tak shalat dan tak berpuasa kecuali yang fardhu saja.",
+                    "audio_url": ""
+                }
+            ]
+        },
+        {
+            "fasl_number": 3,
+            "title_id": "Pujian Kepada Nabi Muhammad SAW",
+            "title_ar": "في مدح النبي صلى الله عليه وسلم",
+            "baits": [
+                {
+                    "bait_number": 29,
+                    "arab": "ظَلَمْتُ سُنَّةَ مَنْ أَحْيَا الظَّلَامَ إِلَى ۞ أَنِ اشْتَكَتْ قَدَمَاهُ الضُّرَّ مِنْ وَرَمِ",
+                    "latin": "Zhalamtu sunnata man aḫyadh-dhalâma ilâ ۞ anisytakat qadamâhudl-dlurra min warami.",
+                    "terjemahan": "Aku telah mengabaikan sunnah beliau yang menghidupkan malam (dengan ibadah) hingga kedua kakinya mengeluh sakit karena bengkak.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 30,
+                    "arab": "وَشَدَّ مِنْ سَغَبٍ أَحْشَاءَهُ وَطَوَى ۞ تَحْتَ الْحِجَارَةِ كَشْحًا مُتْرَفَ الْأَدَمِ",
+                    "latin": "Wa syadda min saghabin aḫsyâ'ahu wa thawâ ۞ taḫtal-ḫijârati kasy-ḫan mutrafal-adami.",
+                    "terjemahan": "Beliau mengikat perutnya karena lapar, dan melipat perutnya yang halus itu di bawah ganjalan batu.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 31,
+                    "arab": "وَرَاوَدَتْهُ الْجِبَالُ الشُّمُّ مِنْ ذَهَبٍ ۞ عَنْ نَفْسِهِ فَأَرَاهَا أَيَّمَا شَمَمِ",
+                    "latin": "Wa râwadat-hul-jibâlusy-syummu min dzahabin ۞ 'an nafsihi fa'arâhâ ayyamâ syamami.",
+                    "terjemahan": "Gunung-gunung tinggi yang terbuat dari emas menawarkan diri kepadanya, namun beliau menolaknya dengan penolakan yang sangat kuat.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 32,
+                    "arab": "وَأَكَّدَتْ زُهْدَهُ فِيْهَا ضَرُوْرَتُهُ ۞ إِنَّ الضَّرُوْرَةَ لَا تَعْدُوْ عَلَى الْعِصَمِ",
+                    "latin": "Wa akkadat zuhdahu fîhâ dlarûratuhu ۞ innadl-dlarûrata lâ ta'dû 'alal-'ishami.",
+                    "terjemahan": "Keadaan butuh beliau justru semakin mempertegas kezuhudannya. Sesungguhnya kebutuhan itu tidak bisa mengalahkan sifat *'ishmah* (terjaga dari dosa).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 33,
+                    "arab": "وَكَيْفَ تَدْعُوْ إِلَى الدُّنْيَا ضَرُوْرَةُ مَنْ ۞ لَوْلَاهُ لَمْ تُخْرَجِ الدُّنْيَا مِنَ الْعَدَمِ",
+                    "latin": "Wa kaifa tad'û ilad-dunyâ dlarûratu man ۞ laulâhu lam tukhrajid-dunyâ minal-'adami.",
+                    "terjemahan": "Dan bagaimana mungkin kebutuhan duniawi bisa merayu beliau, padahal seandainya bukan karena beliau, dunia ini tidak akan diciptakan dari ketiadaan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 34,
+                    "arab": "مُحَمَّدٌ سَيِّدُ الْكَوْنَيْنِ وَالثَّقَلَيْنِ ۞ وَالْفَرِيْقَيْنِ مِنْ عُرْبٍ وَمِنْ عَجَمِ",
+                    "latin": "Muḫammadun sayyidul-kaunaini wats-tsaqalaini ۞ wal-farîqaini min 'urbin wa min 'ajami.",
+                    "terjemahan": "Muhammad adalah pemimpin dua alam (dunia dan akhirat), dua makhluk berat (jin dan manusia), serta dua golongan besar (Arab dan non-Arab).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 35,
+                    "arab": "نَبِيُّنَا الْآمِرُ النَّاهِيْ فَلَا أَحَدٌ ۞ أَبَرَّ فِيْ قَوْلِ لَا مِنْهُ وَلَا نَعَمِ",
+                    "latin": "Nabiyyunâl-âmirun-nâhî falâ aḫadun ۞ abarra fî qauli lâ minhu walâ na'ami.",
+                    "terjemahan": "Nabi kita adalah sang penyeru kebaikan dan pencegah kemungkaran. Tak ada seorang pun yang lebih menepati janji daripada beliau dalam berkata 'tidak' maupun 'ya'.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 36,
+                    "arab": "هُوَ الْحَبِيْبُ الَّذِيْ تُرْجَى شَفَاعَتُهُ ۞ لِكُلِّ هَوْلٍ مِنَ الْأَهْوَالِ مُقْتَحِمِ",
+                    "latin": "Huwal-ḫabîbulladzî turjâ syafâ'atuhu ۞ likulli haulin minal-ahwâli muqtaḫimi.",
+                    "terjemahan": "Beliau adalah kekasih yang syafaatnya selalu diharapkan, untuk menghadapi setiap ketakutan dari berbagai bahaya yang menyergap.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 37,
+                    "arab": "دَعَا إِلَى اللهِ فَالْمُسْتَمْسِكُوْنَ بِهِ ۞ مُسْتَمْسِكُوْنَ بِحَبْلٍ غَيْرِ مُنْفَصِمِ",
+                    "latin": "Da'â ilallâhi fal-mustamsikûna bihi ۞ mustamsikûna biḫablin ghairi munfashimi.",
+                    "terjemahan": "Beliau menyeru kepada (agama) Allah. Maka orang-orang yang berpegang teguh kepadanya, berarti berpegang pada tali yang tidak akan pernah putus.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 38,
+                    "arab": "فَاقَ النَّبِيِّيْنَ فِيْ خَلْقٍ وَفِيْ خُلُقٍ ۞ وَلَمْ يُدَانُوْهُ فِيْ عِلْمٍ وَلَا كَرَمِ",
+                    "latin": "Fâqan-nabiyyîna fî khalqin wafî khuluqin ۞ walam yudânûhu fî 'ilmin walâ karami.",
+                    "terjemahan": "Beliau mengungguli para Nabi yang lain dalam bentuk rupa maupun akhlak. Dan mereka takkan mampu menyamainya dalam hal ilmu maupun kemuliaan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 39,
+                    "arab": "وَكُلُّهُمْ مِنْ رَسُوْلِ اللهِ مُلْتَمِسٌ ۞ غَرْفًا مِنَ الْبَحْرِ أَوْ رَشْفًا مِنَ الدِّيَمِ",
+                    "latin": "Wa kulluhum min rasûlillâhi multamisun ۞ gharfan minal-baḫri au rasyafan minad-diyami.",
+                    "terjemahan": "Mereka semua memohon (mengambil) dari Rasulullah, bagaikan mengambil seciduk air dari lautan, atau setetes air dari hujan lebat.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 40,
+                    "arab": "وَوَاقِفُوْنَ لَدَيْهِ عِنْدَ حَدِّهِمِ ۞ مِنْ نُقْطَةِ الْعِلْمِ أَوْ مِنْ شَكْلَةِ الْحِكَمِ",
+                    "latin": "Wa wâqifûna ladaihi 'inda ḫaddihimi ۞ min nughtshatil-'ilmi au min syaklatil-ḫikami.",
+                    "terjemahan": "Para Nabi itu berdiri di sisi beliau pada batas mereka masing-masing, hanya sekadar mengambil setitik ilmu atau sebaris hikmah dari beliau.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 41,
+                    "arab": "فَهْوَ الَّذِيْ تَمَّ مَعْنَاهُ وَصُوْرَتُهُ ۞ ثُمَّ اصْطَفَاهُ حَبِيْبًا بَارِئُ النَّسَمِ",
+                    "latin": "Fahwalladzî tamma ma'nâhu washûratuhu ۞ tsummash-thafâhu ḫabîban bâri'un-nasami.",
+                    "terjemahan": "Sebab beliaulah orang yang sempurna makna (batin) dan bentuk rupanya. Kemudian Sang Pencipta jiwa memilihnya sebagai kekasih.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 42,
+                    "arab": "مُنَزَّهٌ عَنْ شَرِيْكٍ فِيْ مَحَاسِنِهِ ۞ فَجَوْهَرُ الْحُسْنِ فِيْهِ غَيْرُ مُنْقَسِمِ",
+                    "latin": "Munazzahun 'an syarîkin fî maḫâsinihi ۞ fajauharul-ḫusni fîhi ghairu munqasimi.",
+                    "terjemahan": "Beliau suci dari segala sekutu dalam kebaikannya. Maka inti keindahan pada diri beliau tidak bisa terbagi (kepada orang lain).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 43,
+                    "arab": "دَعْ مَا ادَّعَتْهُ النَّصَارَى فِيْ نَبِيِّهِمِ ۞ وَاحْكُمْ بِمَا شِئْتَ مَدْحًا فِيْهِ وَاحْتَكِمِ",
+                    "latin": "Da' mâd-da'athun-nashârâ fî nabiyyihimi ۞ waḫkum bimâ syi'ta madḫan fîhi waḫtakimi.",
+                    "terjemahan": "Tinggalkanlah (jangan ikuti) apa yang diklaim kaum Nasrani terhadap nabi mereka. Lalu tetapkanlah pujian sesukamu kepada beliau dan putuskanlah dengan bijak.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 44,
+                    "arab": "وَانْسُبْ إِلَى ذَاتِهِ مَا شِئْتَ مِنْ شَرَفٍ ۞ وَانْسُبْ إِلَى قَدْرِهِ مَا شِئْتَ مِنْ عِظَمِ",
+                    "latin": "Wansub ilâ dzâtihi mâ syi'ta min syarafin ۞ wansub ilâ qadrihi mâ syi'ta min 'idhami.",
+                    "terjemahan": "Nisbahkanlah kemuliaan apa saja yang kau kehendaki pada zat beliau. Dan nisbahkanlah keagungan apa saja yang kau kehendaki pada derajatnya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 45,
+                    "arab": "فَإِنَّ فَضْلَ رَسُوْلِ اللهِ لَيْسَ لَهُ ۞ حَدٌّ فَيُعْرِبَ عَنْهُ نَاطِقٌ بِفَمِ",
+                    "latin": "Fa'inna fadl-la rasûlillâhi laisa lahu ۞ ḫaddun fayu'riba 'anhu nâthiqun bifami.",
+                    "terjemahan": "Karena sesungguhnya keutamaan Rasulullah itu tiada batasnya. Sehingga takkan mampu diungkapkan oleh orang yang berbicara dengan lisan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 46,
+                    "arab": "لَوْ نَاسَبَتْ قَدْرَهُ آيَاتُهُ عِظَمًا ۞ أَحْيَا اسْمُهُ حِيْنَ يُدْعَى دَارِسَ الرِّمَمِ",
+                    "latin": "Lau nâsabat qadrahu âyâtuhu 'idhaman ۞ aḫyas-muhu ḫîna yud'â dârisar-rimami.",
+                    "terjemahan": "Seandainya mukjizat-mukjizat beliau sebanding dengan keagungan derajatnya, niscaya dengan menyebut namanya saja akan menghidupkan tulang-belulang yang telah hancur luluh.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 47,
+                    "arab": "لَمْ يَمْتَحِنَّا بِمَا تَعْيَا الْعُقُوْلُ بِهِ ۞ حِرْصًا عَلَيْنَا فَلَمْ نَرْتَبْ وَلَمْ نَهِمِ",
+                    "latin": "Lam yamtaḫinnâ bimâ ta'yâl-'uqûlu bihi ۞ ḫirsan 'alainâ falam nartab walam nahimi.",
+                    "terjemahan": "Beliau tidak menguji kita dengan sesuatu yang akal tak mampu memahaminya, karena sangat peduli pada kita, sehingga kita tidak ragu dan tidak bingung.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 48,
+                    "arab": "أَعْيَا الْوَرَى فَهْمُ مَعْنَاهُ فَلَيْسَ يُرَى ۞ فِيْ الْقُرْبِ وَالْبُعْدِ فِيْهِ غَيْرُ مُنْفَحِمِ",
+                    "latin": "A'yâl-warâ fahmu ma'nâhu falaisa yurâ ۞ fîl-qurbi wal-bu'di fîhi ghairu munfaḫimi.",
+                    "terjemahan": "Seluruh makhluk tak mampu memahami hakekat beliau. Maka tak terlihat orang yang dekat maupun yang jauh darinya, kecuali akan terdiam kebingungan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 49,
+                    "arab": "كَالشَّمْسِ تَظْهَرُ لِلْعَيْنَيْنِ مِنْ بُعُدٍ ۞ صَغِيْرَةً وَتُكِلُّ الطَّرْفَ مِنْ أَمَمِ",
+                    "latin": "Kasy-syamsi tadh-haru lil'ainaini min bu'udin ۞ shaghîratan watukilluth-tharafa min amami.",
+                    "terjemahan": "Beliau bagaikan matahari, tampak kecil di mata bila dilihat dari jauh, namun akan menyilaukan mata bila ditatap dari jarak dekat.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 50,
+                    "arab": "وَكَيْفَ يُدْرِكُ فِيْ الدُّنْيَا حَقِيْقَتَهُ ۞ قَوْمٌ نِيَامٌ تَسَلَّوْا عَنْهُ بِالْحُلُمِ",
+                    "latin": "Wakaifa yudriku fîd-dunyâ ḫaqîqatahu ۞ qaumun niyâmun tasallau 'anhu bil-ḫulumi.",
+                    "terjemahan": "Dan bagaimana mungkin hakekat beliau di dunia dapat dicapai, oleh kaum yang tertidur dan hanya terhibur dengan mimpi-mimpi tentangnya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 51,
+                    "arab": "فَمَبْلَغُ الْعِلْمِ فِيْهِ أَنَّهُ بَشَرٌ ۞ وَأَنَّهُ خَيْرُ خَلْقِ اللهِ كُلِّهِمِ",
+                    "latin": "Famablaghul-'ilmi fîhi annahu basyarun ۞ wa annahu khairu khalqillâhi kullihimi.",
+                    "terjemahan": "Puncak ilmu tentang beliau adalah (mengetahui) bahwa beliau seorang manusia biasa. Dan sesungguhnya beliau adalah makhluk Allah yang paling mulia dari semuanya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 52,
+                    "arab": "وَكُلُّ آيٍ أَتَى الرُّسُلُ الْكِرَامُ بِهَا ۞ فَإِنَّمَا اتَّصَلَتْ مِنْ نُوْرِهِ بِهِمِ",
+                    "latin": "Wakullu âyin atar-rusulul-kirâmu bihâ ۞ fa'innamât-tashalat min nûrihi bihimi.",
+                    "terjemahan": "Setiap mukjizat yang dibawa oleh para rasul yang mulia, pada hakikatnya hanyalah pancaran dari cahaya Nabi Muhammad yang bersambung kepada mereka.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 53,
+                    "arab": "فَإِنَّهُ شَمْسُ فَضْلٍ هُمْ كَوَاكِبُهَا ۞ يُظْهِرْنَ أَنْوَارَهَا لِلنَّاسِ فِيْ الظُّلَمِ",
+                    "latin": "Fa'innahu syamsu fadl-lin hum kawâkibuhâ ۞ yudh-hirna anwârahâ linnâsi fîdh-dhulami.",
+                    "terjemahan": "Sesungguhnya beliau adalah matahari keutamaan, sedangkan para rasul lain adalah bintang-bintangnya. Bintang itu menampakkan cahaya matahari kepada manusia dalam kegelapan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 54,
+                    "arab": "أَكْرِمْ بِخَلْقِ نَبِيٍّ زَانَهُ خُلُقٌ ۞ بِالْحُسْنِ مُشْتَمِلٍ بِالْبِشْرِ مُتَّسِمِ",
+                    "latin": "Akrim bikhalqi nabiyyin zânahu khuluqun ۞ bil-ḫusni musytamilin bil-bisyri muttasimi.",
+                    "terjemahan": "Alangkah mulianya bentuk fisik sang Nabi yang dihiasi dengan akhlak mulia. Meliputi segala keindahan dan selalu ditandai dengan wajah yang berseri-seri.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 55,
+                    "arab": "كَالزَّهْرِ فِيْ تَرَفٍ وَالْبَدْرِ فِيْ شَرَفٍ ۞ وَالْبَحْرِ فِيْ كَرَمٍ وَالدَّهْرِ فِيْ هِمَمِ",
+                    "latin": "Kazzahri fî tarafin wal-badri fî syarafin ۞ wal-baḫri fî karamin wad-dahri fî himami.",
+                    "terjemahan": "Beliau bagaikan bunga dalam kesegarannya, rembulan dalam kemuliaannya, lautan dalam kedermawanannya, dan sepanjang masa dalam keteguhan cita-citanya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 56,
+                    "arab": "كَأَنَّهُ وَهْوَ فَرْدٌ مِنْ جَلَالَتِهِ ۞ فِيْ عَسْكَرٍ حِيْنَ تَلْقَاهُ وَفِيْ حَشَمِ",
+                    "latin": "Ka'annahu wahwa fardun min jalâlatihi ۞ fî 'askarin ḫîna talqâhu wafi ḫasyami.",
+                    "terjemahan": "Seolah-olah beliau itu, meski sedang sendirian karena wibawanya, bagaikan berada di tengah-tengah pasukan tentara dan pengawal saat engkau menemuinya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 57,
+                    "arab": "كَأَنَّمَا اللُّؤْلُؤُ الْمَكْنُوْنُ فِيْ صَدَفٍ ۞ مِنْ مَعْدِنَيْ مَنْطِقٍ مِنْهُ وَمُبْتَسَمِ",
+                    "latin": "Ka'annamâl-lu'lu'ul-maknûnu fî shadafin ۞ min ma'dinai manthiqin minhu wamubtasami.",
+                    "terjemahan": "Seakan-akan mutiara yang tersimpan rapi di dalam cangkangnya, tercipta dari dua tambang indahnya: tutur kata dan senyuman beliau.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 58,
+                    "arab": "لَا طِيْبَ يَعْدِلُ تُرْبًا ضَمَّ أَعْظُمَهُ ۞ طُوْبَى لِمُنْتَشِقٍ مِنْهُ وَمُلْتَثِمِ",
+                    "latin": "Lâ thîba ya'dilu turban dlamma a'dhumahu ۞ thûbâ limuntasyiqin minhu wamultatsimi.",
+                    "terjemahan": "Tak ada wewangian yang dapat menandingi harumnya tanah liang lahat yang memeluk jasad (tulang-belulang) beliau. Betapa beruntungnya orang yang bisa menghirup aroma dan mencium tanah tersebut.",
+                    "audio_url": ""
+                }
+            ]
+        },
+        {
+            "fasl_number": 4,
+            "title_id": "Kelahiran Nabi Muhammad SAW",
+            "title_ar": "في مولده عليه الصلاة والسلام",
+            "baits": [
+                {
+                    "bait_number": 59,
+                    "arab": "أَبَانَ مَوْلِدُهُ عَنْ طِيْبِ عُنْصُرِهِ ۞ يَا طِيْبَ مُبْتَدَإٍ مِنْهُ وَمُخْتَتَمِ",
+                    "latin": "Abâna mauliduhu 'an thîbi 'unshurihi ۞ yâ thîba mubtada'in minhu wamukhtatami.",
+                    "terjemahan": "Kelahirannya menampakkan kebaikan asal-usulnya. Alangkah indahnya permulaan dan pengakhiran dirinya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 60,
+                    "arab": "يَوْمٌ تَفَرَّسَ فِيْهِ الْفُرْسُ أَنَّهُمُ ۞ قَدْ أُنْذِرُوْا بِحُلُوْلِ الْبُؤْسِ وَالنِّقَمِ",
+                    "latin": "Yaumun tafarrasa fîhil-fursu annahumu ۞ qad undzirû biḫulûlil-bu'si wan-niqami.",
+                    "terjemahan": "Hari di mana bangsa Persia memiliki firasat bahwa mereka telah diberi peringatan akan datangnya bencana dan siksaan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 61,
+                    "arab": "وَبَاتَ إِيْوَانُ كِسْرَى وَهْوَ مُنْصَدِعٌ ۞ كَشَمْلِ أَصْحَابِ كِسْرَى غَيْرَ مُلْتَئِمِ",
+                    "latin": "Wa bâta îwânu kisrâ wahwa munshadi'un ۞ kasyamli asḫâbi kisrâ ghaira multaimi.",
+                    "terjemahan": "Malam itu istana (Raja) Kisra retak, sebagaimana hancurnya bala tentara Kisra yang tak dapat disatukan lagi.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 62,
+                    "arab": "وَالنَّارُ خَامِدَةُ الْأَنْفَاسِ مِنْ أَسَفٍ ۞ عَلَيْهِ وَالنَّهْرُ سَاهِي الْعَيْنِ مِنْ سَدَمِ",
+                    "latin": "Wan-nâru khâmidatul-anfâsi min asafin ۞ 'alaihi wan-nahru sâhil-'aini min sadami.",
+                    "terjemahan": "Api sesembahan (Majusi) padam napasnya karena penyesalan (duka), dan mata air sungai (Efrat) menjadi kering karena kesedihan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 63,
+                    "arab": "وَسَاءَ سَاوَةَ أَنْ غَاضَتْ بُحَيْرَتُهَا ۞ وَرُدَّ وَارِدُهَا بِالْغَيْظِ حِيْنَ ظَمِيْ",
+                    "latin": "Wa sâ'a sâwata an ghâdlat buḫairatuhâ ۞ wa rudda wâriduhâ bil-ghaidhi ḫîna dhamî.",
+                    "terjemahan": "Menyedihkan bagi penduduk Sawa atas mengeringnya danau mereka, dan orang yang datang untuk minum terpaksa kembali dengan marah dan dahaga.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 64,
+                    "arab": "كَأَنَّ بِالنَّارِ مَا بِالْمَاءِ مِنْ بَلَلٍ ۞ حُزْنًا وَبِالْمَاءِ مَا بِالنَّارِ مِنْ ضَرَمِ",
+                    "latin": "Ka'anna bin-nâri mâ bil-mâ'i min balalin ۞ ḫuznan wabil-mâ'i mâ bin-nâri min dlarami.",
+                    "terjemahan": "Seakan-akan karena sedih, api itu memiliki sifat basah layaknya air, dan air itu memiliki sifat membakar layaknya api.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 65,
+                    "arab": "وَالْجِنُّ تَهْتِفُ وَالْأَنْوَارُ سَاطِعَةٌ ۞ وَالْحَقُّ يَظْهَرُ مِنْ مَعْنًى وَمِنْ كَلِمِ",
+                    "latin": "Wal-jinnu tahtifu wal-anwâru sâthi'atun ۞ wal-ḫaqqu yadh-haru min ma'nan wamin kalimi.",
+                    "terjemahan": "Jin bersorak-sorai dan cahaya-cahaya bersinar terang. Dan kebenaran pun tampak nyata, baik secara makna maupun perkataan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 66,
+                    "arab": "عَمُوْا وَصَمُّوْا فَإِعْلَانُ الْبَشَائِرِ لَمْ ۞ تُسْمَعْ وَبَارِقَةُ الْإِنْذَارِ لَمْ تُشَمِ",
+                    "latin": "'Amû wa shammû fa'i'lânul-basyâ'iri lam ۞ tusma' wabâriqatul-indzâri lam tusyami.",
+                    "terjemahan": "Mereka (orang musyrik) buta dan tuli, sehingga pengumuman kabar gembira itu tak terdengar, dan kilatan peringatan itu tak terlihat.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 67,
+                    "arab": "مِنْ بَعْدِ مَا أَخْبَرُوْا الْأَقْوَامَ كَاهِنُهُمْ ۞ بِأَنَّ دِيْنَهُمُ الْمُعْوَجَّ لَمْ يَقُمِ",
+                    "latin": "Min ba'di mâ akhbarûl-aqwâma kâhinuhum ۞ bi'anna dînahumul-mu'wajja lam yaqumi.",
+                    "terjemahan": "Padahal sebelumnya para pendeta (peramal) mereka telah memberitahukan kepada kaumnya, bahwa agama mereka yang bengkok itu tak akan tegak lagi.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 68,
+                    "arab": "وَبَعْدَ مَا عَايَنُوْا فِي الْأُفْقِ مِنْ شُهُبٍ ۞ مُنْقَضَّةٍ وَفْقَ مَا فِي الْأَرْضِ مِنْ صَنَمِ",
+                    "latin": "Waba'da mâ 'âyanû fîl-ufqi min syuhubin ۞ munqadl-dlatin wafqa mâ fîl-ardli min shanami.",
+                    "terjemahan": "Dan setelah mereka menyaksikan di ufuk bintang-bintang berjatuhan, seiring dengan berjatuhannya berhala-berhala di bumi.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 69,
+                    "arab": "حَتَّى غَدَا عَنْ طَرِيْقِ الْوَحْيِ مُنْهَزِمٌ ۞ مِنَ الشَّيَاطِيْنِ يَقْفُوْ إِثْرَ مُنْهَزِمِ",
+                    "latin": "Ḫattâ ghadâ 'an tharîqil-waḫyi munhazimun ۞ minasy-syayâthîni yaqfû itsra munhazimi.",
+                    "terjemahan": "Sehingga para setan lari terbirit-birit menjauhi jalan wahyu, saling menyusul jejak sesamanya yang lari tunggang langgang.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 70,
+                    "arab": "كَأَنَّهُمْ هَرَبًا أَبْطَالُ أَبْرَهَةٍ ۞ أَوْ عَسْكَرٌ بِالْحَصَى مِنْ رَاحَتَيْهِ رُمِيْ",
+                    "latin": "Ka'annahum haraban abthâlu abrahatin ۞ au 'askarun bil-ḫashâ min râḫataihi rumî.",
+                    "terjemahan": "Dalam pelarian itu mereka seakan-akan seperti pasukan Abrahah (yang dihancurkan burung Ababil), atau bagaikan pasukan yang dilempar kerikil dari kedua telapak tangan beliau (Nabi Muhammad SAW).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 71,
+                    "arab": "نَبْذًا بِهِ بَعْدَ تَسْبِيْحٍ بِبَطْنِهِمَا ۞ نَبْذَ الْمُسَبِّحِ مِنْ أَحْشَاءِ مُلْتَقِمِ",
+                    "latin": "Nabdzan bihi ba'da tasbîḫin bibathnihimâ ۞ nabdzal-musabbiḫi min aḫsyâ'i multaqimi.",
+                    "terjemahan": "Lemparan kerikil tersebut setelah bertasbih di kedua telapak tangannya (terlempar jauh), bagaikan terlemparnya orang yang bertasbih (Nabi Yunus) dari perut ikan yang menelannya.",
+                    "audio_url": ""
+                }
+            ]
+        },
+        {
+            "fasl_number": 5,
+            "title_id": "Mukjizat Nabi Muhammad SAW",
+            "title_ar": "في معجزاته صلى الله عليه وسلم",
+            "baits": [
+                {
+                    "bait_number": 72,
+                    "arab": "جَاءَتْ لِدَعْوَتِهِ الْأَشْجَارُ سَاجِدَةً ۞ تَمْشِيْ إِلَيْهِ عَلَى سَاقٍ بِلَا قَدَمِ",
+                    "latin": "Jâ’at lida’watihil-asyjâru sâjidatan ۞ tamsyî ilaihi ‘alâ sâqin bilâ qadami.",
+                    "terjemahan": "Pohon-pohon datang memenuhi panggilannya dengan bersujud. Berjalan menuju beliau dengan batang tanpa kaki.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 73,
+                    "arab": "كَأَنَّمَا سَطَرَتْ سَطْرًا لِمَا كَتَبَتْ ۞ فُرُوْعُهَا مِنْ بَدِيْعِ الْخَطِّ فِي اللَّقَمِ",
+                    "latin": "Ka’annamâ satharat sathran limâ katabat ۞ furû’uhâ min badî’il-khaththi fîl-laqami.",
+                    "terjemahan": "Seolah-olah cabang-cabang pohon itu menuliskan suatu barisan tulisan yang indah di tengah jalan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 74,
+                    "arab": "مِثْلَ السَّحَابَةِ أَنَّى سَارَ سَائِرَةً ۞ تَقِيْهِ حَرَّ وَطِيْسٍ لِلْهَجِيْرِ حَمِيْ",
+                    "latin": "Mitslas-saḫâbati annâ sâra sâ’iratan ۞ taqîhi ḫarra wathîsin lil-hajîri ḫamî.",
+                    "terjemahan": "Bagaikan awan yang selalu berjalan mengikuti ke mana pun beliau pergi. Melindunginya dari panas terik matahari di tengah hari.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 75,
+                    "arab": "أَقْسَمْتُ بِالْقَمَرِ الْمُنْشَقِّ إِنَّ لَهُ ۞ مِنْ قَلْبِهِ نِسْبَةً مَبْرُوْرَةَ الْقَسَمِ",
+                    "latin": "Aqsamtu bil-qamaril-munsyaqqi inna lahu ۞ min qalbihi nisbatan mabrûratas-qasami.",
+                    "terjemahan": "Aku bersumpah demi bulan yang terbelah, sesungguhnya bulan itu memiliki kaitan dengan hati beliau (yang juga pernah dibelah), sebuah sumpah yang benar.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 76,
+                    "arab": "وَمَا حَوَى الْغَارُ مِنْ خَيْرٍ وَمِنْ كَرَمِ ۞ وَكُلُّ طَرْفٍ مِنَ الْكُفَّارِ عَنْهُ عَمِيْ",
+                    "latin": "Wamâ ḫawâl-ghâru min khairin wamin karami ۞ wakullu tharfin minal-kuffâri ‘anhu ‘amî.",
+                    "terjemahan": "Dan apa yang ada di dalam gua (Tsur) berupa kebaikan dan kemuliaan (Nabi Muhammad dan Abu Bakar). Sementara setiap mata orang kafir menjadi buta tidak melihatnya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 77,
+                    "arab": "فَالصِّدْقُ فِي الْغَارِ وَالصِّدِّيْقُ لَمْ يَرَمَا ۞ وَهُمْ يَقُوْلُوْنَ مَا بِالْغَارِ مِنْ أَرِمِ",
+                    "latin": "Fash-shidqu fîl-ghâri wash-shiddîqu lam yaramâ ۞ wahum yaqûlûna mâ bil-ghâri min arimi.",
+                    "terjemahan": "Sang Kebenaran (Nabi) dan Ash-Shiddiq (Abu Bakar) tetap berada di dalam gua. Sedangkan orang-orang kafir itu berkata: 'Tak ada seorang pun di dalam gua ini'.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 78,
+                    "arab": "ظَنُّوْا الْحَمَامَ وَظَنُّوْا الْعَنْكَبُوْتَ عَلَى ۞ خَيْرِ الْبَرِيَّةِ لَمْ تَنْسُجْ وَلَمْ تَحُمِ",
+                    "latin": "Dhannûl-ḫamâma wadhannûl-‘ankabûta ‘alâ ۞ khairil-bariyyati lam tansuj walam taḫumi.",
+                    "terjemahan": "Mereka mengira burung merpati tidak akan bersarang dan laba-laba tidak akan menenun jaringnya untuk melindungi sebaik-baiknya makhluk.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 79,
+                    "arab": "وِقَايَةُ اللهِ أَغْنَتْ عَنْ مُضَاعَفَةٍ ۞ مِنَ الدُّرُوْعِ وَعَنْ عَالٍ مِنَ الْأُطُمِ",
+                    "latin": "Wiqâyatullâhi aghnat ‘an mudlâ’afatin ۞ minad-durû’i wa ‘an ‘âlin minal-uthumi.",
+                    "terjemahan": "Perlindungan Allah itu lebih ampuh daripada baju besi yang berlapis-lapis dan benteng-benteng yang tinggi menjulang.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 80,
+                    "arab": "مَا سَامَنِي الدَّهْرُ ضَيْمًا وَاسْتَجَرْتُ بِهِ ۞ إِلَّا وَنِلْتُ جِوَارًا مِنْهُ لَمْ يُضَمِ",
+                    "latin": "Mâ sâmanid-dahru dlaiman wastajartu bihi ۞ illâ waniltu jiwâran minhu lam yudlami.",
+                    "terjemahan": "Tidaklah masa menimpakan kesedihan kepadaku lalu aku memohon perlindungan kepada beliau. Melainkan aku mendapatkan perlindungan yang tak tertandingi.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 81,
+                    "arab": "وَلَا الْتَمَسْتُ غِنَى الدَّارَيْنِ مِنْ يَدِهِ ۞ إِلَّا اسْتَلَمْتُ النَّدَى مِنْ خَيْرِ مُسْتَلَمِ",
+                    "latin": "Walal-tamas-tu ghinâd-dâraini min yadihi ۞ illas-talamtun-nadâ min khairi mustalami.",
+                    "terjemahan": "Dan tidaklah aku memohon kekayaan dua negeri (dunia-akhirat) dari kemurahan tangannya. Melainkan aku mendapatkan pemberian dari sebaik-baiknya pemberi.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 82,
+                    "arab": "لَا تُنْكِرِ الْوَحْيَ مِنْ رُؤْيَاهُ إِنَّ لَهُ ۞ قَلْبًا إِذَا نَامَتِ الْعَيْنَانِ لَمْ يَنَمِ",
+                    "latin": "Lâ tunkiril-waḫya min ru’yâhu inna lahu ۞ qalban idzâ nâmatil-‘ainâni lam yanami.",
+                    "terjemahan": "Janganlah kau ingkari wahyu melalui mimpinya. Karena beliau memiliki hati yang tidak pernah tidur meskipun kedua matanya terlelap.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 83,
+                    "arab": "وَذَاكَ حِيْنَ بُلُوْغٍ مِنْ نُبُوَّتِهِ ۞ فَلَيْسَ يُنْكَرُ فِيْهِ حَالُ مُحْتَلَمِ",
+                    "latin": "Wadzâka ḫîna bulûghin min nubuwwatihi ۞ falaisa yunkaru fîhi ḫâlu muḫtalami.",
+                    "terjemahan": "Hal itu terjadi saat beliau telah mencapai derajat kenabian. Maka tidak boleh diingkari keadaan batinnya saat itu.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 84,
+                    "arab": "تَبَارَكَ اللهُ مَا وَحْيٌ بِمُكْتَسَبٍ ۞ وَلَا نَبِيٌّ عَلَى غَيْبٍ بِمُتَّهَمِ",
+                    "latin": "Tabârakallâhu mâ waḫyun bimuktasabin ۞ walâ nabiyyun ‘alâ ghaibin bimuttahami.",
+                    "terjemahan": "Maha Suci Allah, wahyu itu bukanlah sesuatu yang bisa diusahakan. Dan tak ada seorang nabi pun yang boleh dituduh berdusta atas perkara gaib.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 85,
+                    "arab": "كَمْ أَبْرَأَتْ وَصِبًا بِاللَّمْسِ رَاحَتُهُ ۞ وَأَطْلَقَتْ أَرِبًا مِنْ رِبْقَةِ اللَّمَمِ",
+                    "latin": "Kam abra’at washiban bil-lamsi râḫatuhu ۞ wa athlaqat ariban min ribqatil-lamami.",
+                    "terjemahan": "Betapa banyak orang sakit sembuh karena sentuhan telapak tangannya. Dan membebaskan orang gila dari belenggu penyakit saraf.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 86,
+                    "arab": "وَأَحْيَتِ السَّنَةَ الشَّهْبَاءَ دَعْوَتُهُ ۞ حَتَّى حَكَتْ غُرَّةً فِي الْأَعْصُرِ الدُّهُمِ",
+                    "latin": "Wa aḫyatis-sanatasy-syahbâ’a da’watuhu ۞ ḫattâ ḫakat ghurratan fîl-a’shurid-duhu mi.",
+                    "terjemahan": "Doanya mampu menghidupkan tahun yang kering kerontang. Hingga tahun itu tampak bersinar di antara masa-masa yang gelap gulita.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 87,
+                    "arab": "بِعَارِضٍ جَادَ أَوْ خِلْتَ الْبِطَاحَ بِهَا ۞ سَيْبٌ مِنَ الْيَمِّ أَوْ سَيْلٌ مِنَ الْعَرِمِ",
+                    "latin": "Bi’âridhin jâda au khiltal-bithâḫa bihâ ۞ saibun minal-yammi au sailun minal-‘arimi.",
+                    "terjemahan": "Dengan awan yang menurunkan hujan lebat, sehingga engkau mengira lembah-lembah itu dialiri samudera atau banjir bandang yang besar.",
+                    "audio_url": ""
+                }
+            ]
+        },
+        {
+            "fasl_number": 6,
+            "title_id": "Kemuliaan Al-Qur'an",
+            "title_ar": "في شرف القرآن ومدحه",
+            "baits": [
+                {
+                    "bait_number": 88,
+                    "arab": "دَعْنِيْ وَوَصْفِيَ آيَاتٍ لَهُ ظَهَرَتْ ۞ ظُهُوْرَ نَارِ الْقِرَى لَيْلًا عَلَى عَلَمِ",
+                    "latin": "Da'nî wa washfiya âyâtin lahu dhaharat ۞ dhuhûra nâril-qirâ lailan 'alâ 'alami.",
+                    "terjemahan": "Biarkan aku memuji mukjizat-mukjizat beliau (Al-Qur'an) yang tampak nyata, bagaikan api jamuan yang menyala di atas gunung pada malam hari.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 89,
+                    "arab": "فَالـدُّرُّ يَزْدَادُ حُسْنًا وَهْوَ مُنْتَظِمٌ ۞ وَلَيْسَ يَنْقُصُ قَدْرًا غَيْرَ مُنْتَظِمِ",
+                    "latin": "Fad-durru yazdâdu ḫusnan wahwa munthadhimun ۞ wa laisa yanqushu qadran ghaira munthadhimi.",
+                    "terjemahan": "Mutiara itu akan bertambah indah jika dirangkai menjadi kalung, namun tidak akan berkurang nilainya meskipun tidak dirangkai.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 90,
+                    "arab": "فَمَا تَطَاوَلُ آمَالِ الْمَدِيْحِ إِلَى ۞ مَا فِيْهِ مِنْ كَرَمِ الْأَخْلَاقِ وَالشِّيَمِ",
+                    "latin": "Famâ tathâwalu âmâlil-madîḫi ilâ ۞ mâ fîhi min karamil-akhlâqi wasy-syiyami.",
+                    "terjemahan": "Tak mungkin cita-cita para pemuji dapat mencapai segala kemuliaan akhlak dan budi pekerti yang terkandung di dalamnya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 91,
+                    "arab": "آيَاتُ حَقٍّ مِنَ الرَّحْمٰنِ مُحْدَثَةٌ ۞ قَدِيْمَةٌ صِفَةُ الْمَوْصُوْفِ بِالْقِدَمِ",
+                    "latin": "Âyâtu ḫaqqin minar-raḫmâni muḫdatsatun ۞ qadîmatun shifatul-maushûfi bil-qidami.",
+                    "terjemahan": "Mukjizat Al-Qur'an adalah ayat-ayat yang benar dari Allah Yang Maha Pengasih, yang baru diturunkan namun bersifat qadim (dahulu), karena ia adalah sifat dari Dzat Yang Maha Qadim.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 92,
+                    "arab": "لَمْ تَقْتَرِنْ بِزَمَانٍ وَهْيَ تُخْبِرُنَا ۞ عَنِ الْمَعَادِ وَعَنْ عَادٍ وَعَنْ إِرَمِ",
+                    "latin": "Lam taqtarin bizamânin wahya tukhbirunâ ۞ 'anil-ma'âdi wa 'an 'âdin wa 'an irami.",
+                    "terjemahan": "Al-Qur'an tidak terikat oleh waktu, padahal ia mengabarkan kepada kita tentang hari kiamat, serta tentang kaum 'Ad dan kaum Iram.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 93,
+                    "arab": "دَامَتْ لَدَيْنَا فَفَاقَتْ كُلَّ مُعْجِزَةٍ ۞ مِنَ النَّبِيِّيْنَ إِذْ جَاءَتْ وَلَمْ تَدُمِ",
+                    "latin": "Dâmat ladainâ fafâqat kulla mu'jizatin ۞ minan-nabiyyîna idz jâ'at walam tadumi.",
+                    "terjemahan": "Al-Qur'an kekal di sisi kita, sehingga mengungguli setiap mukjizat nabi-nabi terdahulu yang datang kemudian hilang (tidak kekal).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 94,
+                    "arab": "مُحَكَّمَاتٌ فَمَا تُبْقِيْنَ مِنْ شُبَهٍ ۞ لِذِيْ شِقَاقٍ وَمَا تَبْغِيْنَ مِنْ حَكَمِ",
+                    "latin": "Muḫakkamâtun famâ tubqîna min syubahin ۞ lidzî syiqâqin wamâ tabghîna min ḫakami.",
+                    "terjemahan": "Ayat-ayatnya sangat kokoh, sehingga tidak menyisakan keraguan bagi orang yang suka membantah, dan tidak membutuhkan lagi hakim penengah.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 95,
+                    "arab": "مَا حُوْرِبَتْ قَطُّ إِلَّا عَادَ مِنْ حَرَبٍ ۞ أَعْدَى الْأَعَادِيْ إِلَيْهَا مُلْقِيَ السَّلَمِ",
+                    "latin": "Mâ ḫûribat qath-thu illâ 'âda min harabin ۞ a'dal-a'âdî ilaihâ mulqiyas-salami.",
+                    "terjemahan": "Al-Qur'an tidak pernah ditentang melainkan musuh yang paling keras sekalipun akan kembali dari peperangan dengan melempar tanda perdamaian (menyerah).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 96,
+                    "arab": "رَدَّتْ بَلَاغَتُهَا دَعْوَى مُعَارِضِهَا ۞ رَدَّ الْغَيُوْرِ يَدَ الْجَانِيْ عَنِ الْحُرَمِ",
+                    "latin": "Raddat balâghatuhâ da'wâ mu'âridlihâ ۞ raddal-ghayûri yadal-jânî 'anil-ḫurami.",
+                    "terjemahan": "Keindahan bahasanya menolak klaim para penentangnya, sebagaimana seorang pembela yang cemburu menepis tangan penjahat dari keluarganya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 97,
+                    "arab": "لَهَا مَعَانٍ كَمَوْجِ الْبَحْرِ فِيْ مَدَدٍ ۞ وَفَوْقَ جَوْهَرِهِ فِي الْحُسْنِ وَالْقِيَمِ",
+                    "latin": "Lahâ ma'ânin kamaujil-baḫri fî madadin ۞ wafauqa jauharihi fîl-ḫusni wal-qiyami.",
+                    "terjemahan": "Ia memiliki makna-makna bagaikan gelombang samudera dalam keluasan dukungannya, namun melebihi mutiara samudera dalam keindahan dan harganya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 98,
+                    "arab": "فَمَا تُعَدُّ وَلَا تُحْصَى عَجَائِبُهَا ۞ وَلَا تُسَامُ عَلَى الْإِكْثَارِ بِالسَّأَمِ",
+                    "latin": "Famâ tu'addu walâ tuḫshâ 'ajâ'ibuhâ ۞ walâ tusâmu 'alal-iktsâri bis-sa'ami.",
+                    "terjemahan": "Keajaiban-keajaibannya tidak dapat dihitung dan tidak dapat dijumlahkan, serta tidak akan membosankan meskipun dibaca berulang-ulang.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 99,
+                    "arab": "قَرَّتْ بِهَا عَيْنُ قَارِيْهَا فَقُلْتُ لَهُ ۞ لَقَدْ ظَفِرْتَ بِحَبْلِ اللهِ فَاعْتَصِمِ",
+                    "latin": "Qarrat bihâ 'ainu qârîhâ faqultu lahu ۞ laqad dhafirta biḫablillâhi fa'tashimi.",
+                    "terjemahan": "Sejuklah mata orang yang membacanya, maka aku katakan kepadanya: 'Sungguh engkau telah beruntung mendapatkan tali Allah, maka berpegang teguhlah.'",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 100,
+                    "arab": "إِنْ تَتْلُهَا خِيْفَةً مِنْ حَرِّ نَارِ لَظَى ۞ أَطْفَأْتَ حَرَّ لَظَى مِنْ وِرْدِهَا الشَّبِمِ",
+                    "latin": "In tatluhâ khîfatan min ḫarri nâri ladhâ ۞ athfa'ta ḫarra ladhâ min wirdihasy-syabimi.",
+                    "terjemahan": "Jika engkau membacanya karena takut akan panas api neraka Ladha, niscaya engkau telah memadamkan panas api itu dengan kesejukan wiridnya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 101,
+                    "arab": "كَأَنَّهَا الْحَوْضُ تَبْيَضُّ الْوُجُوْهُ بِهِ ۞ مِنَ الْعُصَاةِ وَقَدْ جَاءُوْهُ كَالْفُحَمِ",
+                    "latin": "Ka'annahal-ḫaudhu tabyadl-dlul-wujûhu bihi ۞ minal-'ushâti waqad jâ'ûhu kalfuḫami.",
+                    "terjemahan": "Al-Qur'an bagaikan telaga (Kautsar) yang dengannya wajah para pendosa menjadi putih bersinar, padahal mereka datang dalam keadaan hitam legam bagaikan arang.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 102,
+                    "arab": "وَكَالصِّرَاطِ وَكَالْمِيْزَانِ مَعْدِلَةً ۞ فَالْقِسْطُ مِنْ غَيْرِهَا فِي النَّاسِ لَمْ يَقُمِ",
+                    "latin": "Wakash-shirâthi wakal-mîzâni ma'dilatan ۞ fal-qisthu min ghairihâ fîn-nâsi lam yaqumi.",
+                    "terjemahan": "Al-Qur'an bagaikan titian (shirat) dan timbangan (mizan) dalam hal keadilannya. Maka keadilan di antara manusia takkan tegak tanpa bimbingannya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 103,
+                    "arab": "لَا تَعْجَبَنْ لِحَسُوْدٍ رَاحَ يُنْكِرُهَا ۞ تَجَاهُلًا وَهْوَ عَيْنُ الْحَاذِقِ الْفَهِمِ",
+                    "latin": "Lâ ta'jaban liḫasûdin râḫa yunkiruhâ ۞ tajâbulan wahwa 'ainul-ḫâdziqil-fahimi.",
+                    "terjemahan": "Janganlah heran kepada pendengki yang berusaha mengingkarinya karena pura-pura tidak tahu, padahal ia adalah orang yang cerdas lagi paham.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 104,
+                    "arab": "قَدْ تُنْكِرُ الْعَيْنُ ضَوْءَ الشَّمْسِ مِنْ رَمَدٍ ۞ وَيُنْكِرُ الْفَمُ طَعْمَ الْمَاءِ مِنْ سَقَمِ",
+                    "latin": "Qad tunkirul-'ainu dlau'asy-syamsi min ramadin ۞ wa yunkirul-famu ta'mal-mâ'i min saqami.",
+                    "terjemahan": "Terkadang mata mengingkari cahaya matahari karena sakit mata, dan mulut mengingkari rasa air (tawar) karena sedang sakit.",
+                    "audio_url": ""
+                }
+            ]
+        },
+        {
+            "fasl_number": 7,
+            "title_id": "Isra' Mi'raj Nabi Muhammad SAW",
+            "title_ar": "في إسرائه ومعراجه صلى الله عليه وسلم",
+            "baits": [
+                {
+                    "bait_number": 105,
+                    "arab": "يَا خَيْرَ مَنْ يَمَّمَ الْعَافُوْنَ سَاحَتَهُ ۞ سَعْيًا وَفَوْقَ مُتُوْنِ الْأَيْنُقِ الرُّسُمِ",
+                    "latin": "Yâ khaira man yammamal-'âfûna sâḫatahu ۞ sa'yan wa fauqa mutûnil-ainuqir-rusumi.",
+                    "terjemahan": "Wahai sebaik-baik orang yang halamannya dituju oleh para pencari karunia, baik yang berjalan kaki maupun yang menunggang unta lari cepat.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 106,
+                    "arab": "وَمَنْ هُوَ الْآيَةُ الْكُبْرَى لِمُعْتَبِرٍ ۞ وَمَنْ هُوَ النِّعْمَةُ الْعُظْمَى لِمُغْتَنِمِ",
+                    "latin": "Waman huwal-âyatul-kubrâ limu'tabirin ۞ waman huwan-ni'matul-'udhmâ limughtanimi.",
+                    "terjemahan": "Dan wahai orang yang menjadi tanda kebesaran terbesar bagi yang mau mengambil pelajaran, dan nikmat paling agung bagi yang pandai mengambil kesempatan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 107,
+                    "arab": "سَرَيْتَ مِنْ حَرَمٍ لَيْلًا إِلَى حَرَمِ ۞ كَمَا سَرَى الْبَدْرُ فِي دَاجٍ مِنَ الظُّلَمِ",
+                    "latin": "Saraita min ḫaramin lailan ilâ ḫarami ۞ kamâ saral-badru fî dâjin minadh-dhulami.",
+                    "terjemahan": "Engkau berjalan di malam hari dari Tanah Haram (Makkah) ke Tanah Haram (Aqsha), bagaikan bulan purnama yang berjalan menembus malam yang gelap gulita.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 108,
+                    "arab": "وَبِتَّ تَرْقَى إِلَى أَنْ نِلْتَ مَنْزِلَةً ۞ مِنْ قَابِ قَوْسَيْنِ لَمْ تُدْرَكْ وَلَمْ تُرَمِ",
+                    "latin": "Wa bitta tarqâ ilâ an nilta manzilatan ۞ min qâbi qausaini lam tudrak walam turami.",
+                    "terjemahan": "Dan semalaman engkau terus naik hingga mencapai suatu kedudukan sejarak dua busur panah, sebuah derajat yang belum pernah dicapai dan belum pernah diangan-angankan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 109,
+                    "arab": "وَقَدَّمَتْكَ جَمِيْعُ الْأَنْبِيَاءِ بِهَا ۞ وَالرُّسْلِ تَقْدِيْمَ مَخْدُوْمٍ عَلَى خَدَمِ",
+                    "latin": "Wa qaddamatka jamî'ul-anbiyâ'i bihâ ۞ war-rusli taqdîma makhdûmin 'alâ khadami.",
+                    "terjemahan": "Dan semua nabi serta para rasul mendahulukanmu di tempat itu, laksana para pelayan yang mendahulukan majikannya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 110,
+                    "arab": "وَأَنْتَ تَخْتَرِقُ السَّبْعَ الطِّبَاقَ بِهِمْ ۞ فِي مَوْكِبٍ كُنْتَ فِيْهِ صَاحِبَ الْعَلَمِ",
+                    "latin": "Wa anta takhtariqus-sab'ath-thibâqa bihim ۞ fî maukibin kunta fîhi shâḫibal-'alami.",
+                    "terjemahan": "Dan engkau menembus tujuh lapis langit bersama mereka, dalam sebuah arak-arakan di mana engkaulah pembawa benderanya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 111,
+                    "arab": "حَتَّى إِذَا لَمْ تَدَعْ شَأْوًا لِمُسْتَبِقٍ ۞ مِنَ الدُّنُوِّ وَلَا مَرْقًى لِمُسْتَنِمِ",
+                    "latin": "Ḫattâ idzâ lam tada' sya'wan limustabiqin ۞ minad-dunuwwi walâ marqan limustanim.",
+                    "terjemahan": "Hingga ketika engkau tidak lagi menyisakan suatu tujuan bagi orang yang ingin berlomba mendekat (kepada Allah), dan tidak menyisakan tempat naik bagi orang yang mencari derajat.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 112,
+                    "arab": "خَفَضْتَ كُلَّ مَقَامٍ بِالْإِضَافَةِ إِذْ ۞ نُوْدِيْتَ بِالرَّفْعِ مِثْلَ الْمُفْرَدِ الْعَلَمِ",
+                    "latin": "Khafadhta kulla maqâmin bil-idlâfati idz ۞ nûdîta bir-raf'i mitslal-mufradil-'alami.",
+                    "terjemahan": "Engkau merendahkan setiap kedudukan bila dibandingkan dengan derajatmu, ketika engkau dipanggil untuk dinaikkan derajat bagaikan isim mufrad 'alam (yang mendapat i'rab rafa').",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 113,
+                    "arab": "كَيْمَا تَفُوْزَ بِوَصْلٍ أَيِّ مُسْتَتِرٍ ۞ عَنِ الْعُيُوْنِ وَسِرٍّ أَيِّ مُكْتَتَمِ",
+                    "latin": "Kaimâ tafûza biwashlin ayyi mustatirin ۞ 'anil-'uyûni wasirrin ayyi muktatami.",
+                    "terjemahan": "Hal itu agar engkau beruntung dengan pertemuan (dengan Allah) yang sangat tertutup dari pandangan mata, serta rahasia yang amat tersimpan rapat.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 114,
+                    "arab": "فَحُزْتَ كُلَّ فَخَارٍ غَيْرَ مُشْتَرَكٍ ۞ وَجُزْتَ كُلَّ مَقَامٍ غَيْرَ مُزْدَحَمِ",
+                    "latin": "Faḫuzta kulla fakhârin ghaira musytarakin ۞ wajuzta kulla maqâmin ghaira muzdaḫami.",
+                    "terjemahan": "Maka engkau telah memborong semua kebanggaan tanpa bisa disaingi, dan engkau telah melewati semua kedudukan tanpa bisa disamai.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 115,
+                    "arab": "وَجَلَّ مِقْدَارُ مَا وُلِّيْتَ مِنْ رُتَبٍ ۞ وَعَزَّ إِدْرَاكُ مَا أُوْلِيْتَ مِنْ نِعَمِ",
+                    "latin": "Wajalla miqdâru mâ wullîta min rutabin ۞ wa 'azza idrâku mâ ûlîta min ni'ami.",
+                    "terjemahan": "Sangatlah agung nilai pangkat yang telah dianugerahkan kepadamu, dan sangatlah sulit menjangkau nikmat yang telah diberikan kepadamu.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 116,
+                    "arab": "بُشْرَى لَنَا مَعْشَرَ الْإِسْلَامِ إِنَّ لَنَا ۞ مِنَ الْعِنَايَةِ رُكْنًا غَيْرَ مُنْهَدِمِ",
+                    "latin": "Busyrâ lanâ ma'syaral-islâmi inna lanâ ۞ minal-'inâyati ruknan ghaira munhadimi.",
+                    "terjemahan": "Kabar gembira bagi kita, wahai umat Islam! Sesungguhnya kita memiliki tiang yang kokoh takkan pernah runtuh berkat pertolongan Allah.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 117,
+                    "arab": "لَمَّا دَعَا اللهُ دَاعِيْنَا لِطَاعَتِهِ ۞ بِأَكْرَمِ الرُّسْلِ كُنَّا أَكْرَمَ الْأُمَمِ",
+                    "latin": "Lammâ da'allâhu dâ'înâ lithâ'atihi ۞ bi'akramir-rusli kunnâ akramal-umami.",
+                    "terjemahan": "Tatkala Allah memanggil orang yang menyeru kita (Nabi Muhammad) untuk menaati-Nya dengan sebutan 'Rasul Paling Mulia', maka jadilah kita umat yang paling mulia.",
+                    "audio_url": ""
+                }
+            ]
+        },
+        {
+            "fasl_number": 8,
+            "title_id": "Perjuangan Nabi Muhammad SAW",
+            "title_ar": "في جهاد النبي صلى الله عليه وسلم",
+            "baits": [
+                {
+                    "bait_number": 118,
+                    "arab": "رَاعَتْ قُلُوْبَ الْعِدَا أَنْبَاءُ بِعْثَتِهِ ۞ كَنَبْأَةٍ أَجْفَلَتْ غُفْلًا مِنَ الْغَنَمِ",
+                    "latin": "Râ'at qulûbal-'idâ anbâ'u bi'tsatihi ۞ kanab'atin ajfalat ghuflan minal-ghanami.",
+                    "terjemahan": "Berita pengutusannya menyiutkan nyali musuh-musuhnya. Bagaikan auman singa yang mengejutkan kawanan domba yang sedang lengah.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 119,
+                    "arab": "مَا زَالَ يَلْقَاهُمُ فِيْ كُلِّ مُعْتَرَكٍ ۞ حَتَّى حَكَوْا بِالْقَنَا لَحْمًا عَلَى وَضَمِ",
+                    "latin": "Mâ zâla yalqâhumu fî kulli mu'tarakin ۞ ḫattâ ḫakau bil-qanâ laḫman 'alâ wadlami.",
+                    "terjemahan": "Beliau terus-menerus menghadapi mereka dalam setiap pertempuran. Hingga mereka bagaikan daging di atas talenan karena tebasan pedang dan tombak.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 120,
+                    "arab": "وَدُّوْا الْفِرَارَ فَكَادُوْا يَغْبِطُوْنَ بِهِ ۞ أَشْلَاءَ شَالَتْ مَعَ الْعِقْبَانِ وَالرَّخَمِ",
+                    "latin": "Waddûl-firâra fakâdû yaghbithûna bihi ۞ asylâ'a syâlat ma'al-'iqbâni war-rakhami.",
+                    "terjemahan": "Mereka sangat ingin lari bersembunyi. Bahkan mereka hampir iri pada mayat-mayat yang bergelimpangan bersama burung elang dan burung nazar.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 121,
+                    "arab": "تَمْضِي اللَّيَالِيْ وَلَا يَدْرُوْنَ عِدَّتَهَا ۞ مَا لَمْ تَكُنْ مِنْ لَيَالِي الْأَشْهُرِ الْحُرُمِ",
+                    "latin": "Tamdlil-layâlî walâ yadrûna 'iddatahâ ۞ mâ lam takun min layâlil-asyhuril-ḫurumi.",
+                    "terjemahan": "Malam-malam berlalu sedang mereka tak tahu lagi hitungannya. Kecuali jika malam-malam itu termasuk dalam bulan-bulan haram (bulan suci).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 122,
+                    "arab": "كَأَنَّمَا الدِّيْنُ ضَيْفٌ حَلَّ سَاحَتَهُمْ ۞ بِكُلِّ قَرْمٍ إِلَى لَحْمِ الْعِدَا قَرِمِ",
+                    "latin": "Ka'annamad-dînu dlaifun ḫalla sâḫatahum ۞ bikulli qarmin ilâ laḫmil-'idâ qarimi.",
+                    "terjemahan": "Seolah-olah agama Islam itu tamu yang singgah di halaman mereka. Bersama setiap pahlawan yang rakus melahap daging musuh.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 123,
+                    "arab": "يَجُرُّ بَحْرَ خَمِيْسٍ فَوْقَ سَابِحَةٍ ۞ يَرْمِيْ بِمَوْجٍ مِنَ الْأَبْطَالِ مُلْتَطِمِ",
+                    "latin": "Yajurru baḫra khamîsin fauqa sâbiḫatin ۞ yarmî bimaujin minal-abthâli multathimi.",
+                    "terjemahan": "Beliau memimpin pasukan besar bagaikan lautan di atas kuda-kuda yang berlari cepat. Membawa gelombang pahlawan yang saling menerjang.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 124,
+                    "arab": "مِنْ كُلِّ مُنْتَدِبٍ لِلّٰهِ مُحْتَسِبٍ ۞ يَسْطُوْ بِمُسْتَأْصِلٍ لِلْكُفْرِ مُصْطَلِمِ",
+                    "latin": "Min kulli muntadibin lillâhi muḫtasibin ۞ yasthû bimus-ta'shilin lil-kufri mushthalimi.",
+                    "terjemahan": "Dari setiap relawan yang mengharap ridha Allah semata. Menyerang dengan pedang yang membasmi dan mencabut akar kekufuran.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 125,
+                    "arab": "حَتَّى غَدَتْ مِلَّةُ الْإِسْلَامِ وَهْيَ بِهِمْ ۞ مِنْ بَعْدِ غُرْبَتِهَا مَوْصُوْلَةَ الرَّحِمِ",
+                    "latin": "Ḫattâ ghadat millatul-islâmi wahya bihim ۞ min ba'di ghurbatihâ maushûlatar-raḫimi.",
+                    "terjemahan": "Sehingga agama Islam berkat perjuangan mereka. Menjadi kuat laksana keluarga yang erat tali persaudaraannya setelah sebelumnya terasing.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 126,
+                    "arab": "مَكْفُوْلَةً أَبَدًا مِنْهُمْ بِخَيْرِ أَبٍ ۞ وَخَيْرِ بَعْلٍ فَلَمْ تَيْتَمْ وَلَمْ تَئِمِ",
+                    "latin": "Makfûlatan abadan minhum bikhairi abin ۞ wakhairi ba'lin falam taitam walam ta'imi.",
+                    "terjemahan": "Islam selalu terjaga oleh sebaik-baik ayah dan sebaik-baik suami. Maka ia takkan pernah menjadi yatim dan takkan pernah menjadi janda.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 127,
+                    "arab": "هُمُ الْجِبَالُ فَسَلْ عَنْهُمْ مُصَادِمَهُمْ ۞ مَاذَا رَأَى مِنْهُمُ فِيْ كُلِّ مُصْطَدَمِ",
+                    "latin": "Humul-jibâlu fasal 'anhum mushâdimahum ۞ mâdzâ ra'â minhumu fî kulli mushthadami.",
+                    "terjemahan": "Mereka sekokoh gunung, maka tanyakanlah kepada musuh yang menabrak mereka. Apa yang mereka alami dalam setiap perbenturan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 128,
+                    "arab": "وَسَلْ حُنَيْنًا وَسَلْ بَدْرًا وَسَلْ أُحُدًا ۞ فُصُوْلَ حَتْفٍ لَهُمْ أَدْهَى مِنَ الْوَخَمِ",
+                    "latin": "Wasal ḫunainan wasal badran wasal uḫudan ۞ fushûla ḫatfin lahum adhâ minal-wakhami.",
+                    "terjemahan": "Tanyakanlah pada perang Hunain, perang Badar, dan perang Uhud. Tempat-tempat kebinasaan mereka yang lebih dahsyat dari wabah penyakit.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 129,
+                    "arab": "اَلْمُصْدِرِي الْبِيْضِ حُمْرًا بَعْدَ مَا وَرَدَتْ ۞ مِنَ الْعِدَا كُلَّ مُسْوَدٍّ مِنَ اللِّمَمِ",
+                    "latin": "Al-mushdirîl-bîdhi ḫumran ba'da mâ waradat ۞ minal-'idâ kulla muswaddin minal-limami.",
+                    "terjemahan": "Pasukan yang memulangkan pedang-pedang putih menjadi merah (berdarah). Setelah mereka memotong setiap kepala musuh yang berambut hitam.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 130,
+                    "arab": "وَالْكَاتِبِيْنَ بِسُمْرِ الْخَطِّ مَا تَرَكَتْ ۞ أَقْلَامُهُمْ حَرْفَ جِسْمٍ غَيْرَ مُنْعَجِمِ",
+                    "latin": "Wal-kâtibîna bisumril-khaththi mâ tarakat ۞ aqlâmuhum ḫarfa jismin ghaira mun'ajimi.",
+                    "terjemahan": "Mereka menulis dengan tombak-tombak coklat. Pena (tombak) mereka tak menyisakan satu pun huruf di tubuh musuh tanpa diberi titik (luka).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 131,
+                    "arab": "شَاكِي السِّلَاحِ لَهُمْ سِيْمَا تُمَيِّزُهُمْ ۞ وَالْوَرْدُ يَمْتَازُ بِالسِّيْمَا عَنِ السَّلَمِ",
+                    "latin": "Syâkis-silâḫi lahum sîmâ tumayyizuhum ۞ wal-wardu yamtâzu bis-sîmâ 'anis-salami.",
+                    "terjemahan": "Mereka bersenjata lengkap dan memiliki tanda yang membedakan mereka. Sebagaimana bunga mawar yang dapat dibedakan dari pohon salam melalui cirinya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 132,
+                    "arab": "تُهْدِيْ إِلَيْكَ رِيَاحُ النَّصْرِ نَشْرَهُمُ ۞ فَتَحْسِبُ الزَّهْرَ فِي الْأَكْمَامِ كُلَّ كَمِيْ",
+                    "latin": "Tuhdî ilaika riyâḫun-nashri nasyrahamu ۞ fataḫsibuz-zahra fîl-akmâmi kulla kamî.",
+                    "terjemahan": "Angin kemenangan menebarkan keharuman mereka kepadamu. Sehingga engkau mengira setiap prajurit bersenjata itu laksana bunga dalam kelopaknya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 133,
+                    "arab": "كَأَنَّهُمْ فِيْ ظُهُوْرِ الْخَيْلِ نَبْتُ رُبًا ۞ مِنْ شِدَّةِ الْحَزْمِ لَا مِنْ شِدَّةِ الْحُزُمِ",
+                    "latin": "Ka'annahum fî dhuhûril-khaili nabtu rubâ ۞ min syiddatil-ḫazmi lâ min syiddatil-ḫuzumi.",
+                    "terjemahan": "Di punggung kuda, mereka bagaikan pepohonan yang tumbuh di perbukitan. Karena keteguhan tekad mereka, bukan karena kuatnya ikatan pelana.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 134,
+                    "arab": "طَارَتْ قُلُوْبُ الْعِدَا مِنْ بَأْسِهِمْ فَرَقًا ۞ فَمَا تُفَرِّقُ بَيْنَ الْبَهْمِ وَالْبُهَمِ",
+                    "latin": "Thârat qulûbul-'idâ min ba'sihim faraqan ۞ famâ tufarriqu bainal-bahmi wal-buhami.",
+                    "terjemahan": "Jantung para musuh copot berdebar karena takut akan kehebatan mereka. Sehingga musuh tak bisa lagi membedakan antara anak domba dan pahlawan yang gagah berani.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 135,
+                    "arab": "وَمَنْ تَكُنْ بِرَسُوْلِ اللهِ نُصْرَتُهُ ۞ إِنْ تَلْقَهُ الْأُسْدُ فِيْ آجَامِهَا تَجِمِ",
+                    "latin": "Waman takun birasûlillâhi nushratuhu ۞ in talqahul-usdu fî âjâmihâ tajimi.",
+                    "terjemahan": "Barangsiapa mendapat pertolongan dari Rasulullah. Bila ia bertemu singa di hutan belantara, niscaya singa itu akan terdiam menunduk.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 136,
+                    "arab": "وَلَنْ تَرَى مِنْ وَلِيٍّ غَيْرِ مُنْتَصِرٍ ۞ بِهِ وَلَا مِنْ عَدُوٍّ غَيْرِ مُنْقَسِمِ",
+                    "latin": "Walan tarâ min waliyyin ghairi muntashirin ۞ bihi walâ min 'aduwwin ghairi munqasimi.",
+                    "terjemahan": "Dan engkau takkan pernah melihat seorang kekasih (Allah) kecuali mendapat kemenangan berkat beliau. Serta takkan ada musuh melainkan hancur binasa.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 137,
+                    "arab": "أَحَلَّ أُمَّتَهُ فِيْ حِرْزِ مِلَّتِهِ ۞ كَاللَّيْثِ حَلَّ مَعَ الْأَشْبَالِ فِيْ أَجَمِ",
+                    "latin": "Aḫalla ummatahu fî ḫirzi millatihi ۞ kal-laitsi ḫalla ma'al-asybâli fî ajami.",
+                    "terjemahan": "Beliau menempatkan umatnya dalam benteng agamanya. Bagaikan singa yang menempatkan anak-anaknya di dalam hutan perlindungan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 138,
+                    "arab": "كَمْ جَدَّلَتْ كَلِمَاتُ اللهِ مِنْ جَدَلٍ ۞ فِيْهِ وَكَمْ خَصَمَ الْبُرْهَانُ مِنْ خَصِمِ",
+                    "latin": "Kam jaddalat kalimâtullâhi min jadalin ۞ fîhi wakam khasamal-burhânu min khasimi.",
+                    "terjemahan": "Betapa banyak kalimat-kalimat Allah (Al-Qur'an) menjatuhkan bantahan musuh terhadap beliau. Dan betapa banyak bukti kebenaran membungkam para penentangnya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 139,
+                    "arab": "كَفَاكَ بِالْعِلْمِ فِي الْأُمِّيِّ مُعْجِزَةً ۞ فِي الْجَاهِلِيَّةِ وَالتَّأْدِيْبِ فِي الْيُتُمِ",
+                    "latin": "Kafâka bil-'ilmi fîl-ummiyyi mu'jizatan ۞ fîl-jâhiliyyati wat-ta'dîbi fîl-yutumi.",
+                    "terjemahan": "Cukuplah bagimu suatu mukjizat, berupa ilmu pada diri seorang yang ummi (tidak bisa baca tulis) di masa jahiliah, dan keluhuran budi pekerti pada diri seorang anak yatim.",
+                    "audio_url": ""
+                }
+            ]
+        },
+        {
+            "fasl_number": 9,
+            "title_id": "Tawassul Kepada Nabi Muhammad SAW",
+            "title_ar": "في التوسل بالنبي صلى الله عليه وسلم",
+            "baits": [
+                {
+                    "bait_number": 140,
+                    "arab": "خَدَمْتُهُ بِمَدِيْحٍ أَسْتَقِيْلُ بِهِ ۞ ذُنُوْبَ عُمْرٍ مَضَى فِي الشِّعْرِ وَالْخِدَمِ",
+                    "latin": "Khadamtuhu bimadîḫin astaqîlu bihi ۞ dzunûba 'umrin madlâ fîsy-syi'ri wal-khidami.",
+                    "terjemahan": "Aku mengabdi kepadanya (Nabi Muhammad) dengan pujian, yang dengannya aku memohon ampunan atas dosa-dosa umur yang telah berlalu dalam menggubah syair (pujian makhluk) dan melayani mereka.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 141,
+                    "arab": "إِذْ قَلَّدَانِيَ مَا تُخْشَى عَوَاقِبُهُ ۞ كَأَنَّنِيْ بِهِمَا هَدْيٌ مِنَ النَّعَمِ",
+                    "latin": "Idz qalladâniya mâ tukhsyâ 'awâqibuhu ۞ ka'annanî bihimâ hadyun minan-na'ami.",
+                    "terjemahan": "Karena keduanya (syair dan pelayanan kepada makhluk) telah mengalungkan kepadaku sesuatu yang kutakuti akibatnya. Seakan-akan karena keduanya, aku bagaikan hewan kurban yang dikalungi tanda untuk disembelih.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 142,
+                    "arab": "أَطَعْتُ غَيَّ الصِّبَا فِي الْحَالَتَيْنِ وَمَا ۞ حَصَلْتُ إِلَّا عَلَى الْآثَامِ وَالنَّدَمِ",
+                    "latin": "Atha'tu ghayyash-shibâ fîl-ḫâlataini wamâ ۞ ḫashaltu illâ 'alâl-âtsâmi wan-nadami.",
+                    "terjemahan": "Aku menuruti kesesatan masa muda dalam kedua hal tersebut, dan aku tidak mendapatkan apa-apa kecuali dosa dan penyesalan.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 143,
+                    "arab": "فَيَا خَسَارَةَ نَفْسٍ فِيْ تِجَارَتِهَا ۞ لَمْ تَشْتَرِ الدِّيْنَ بِالدُّنْيَا وَلَمْ تَسُمِ",
+                    "latin": "Fayâ khasârata nafsin fî tijâratihâ ۞ lam tasytarid-dîna bid-dunyâ walam tasumi.",
+                    "terjemahan": "Maka sungguh merugi jiwaku dalam perdagangannya. Ia tidak mau membeli agama (akhirat) dengan dunia, dan bahkan tidak menawarnya sama sekali.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 144,
+                    "arab": "وَمَنْ يَبِعْ آجِلًا مِنْهُ بِعَاجِلِهِ ۞ يَبِنْ لَهُ الْغَبْنُ فِيْ بَيْعٍ وَفِيْ سَلَمِ",
+                    "latin": "Waman yabi' âjilan minhu bi'âjilihi ۞ yabin lahul-ghabnu fî bai'in wafî salami.",
+                    "terjemahan": "Barangsiapa menjual keuntungan akhirat (yang tertunda) dengan kesenangan dunia (yang disegerakan), maka akan jelaslah kerugiannya dalam jual beli dan akad salamnya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 145,
+                    "arab": "إِنْ آتِ ذَنْبًا فَمَا عَهْدِيْ بِمُنْتَقِضٍ ۞ مِنَ النَّبِيِّ وَلَا حَبْلِيْ بِمُنْصَرِمِ",
+                    "latin": "In âti dzanban famâ 'ahdî bimuntaqidhin ۞ minan-nabiyyi walâ ḫablî bimunsharimi.",
+                    "terjemahan": "Jika aku berbuat dosa, maka janjiku (iman) kepada Nabi tidaklah batal, dan tali hubunganku dengannya tidaklah terputus.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 146,
+                    "arab": "فَإِنَّ لِيْ ذِمَّةً مِنْهُ بِتَسْمِيَتِيْ ۞ مُحَمَّدًا وَهْوَ أَوْفَى الْخَلْقِ بِالذِّمَمِ",
+                    "latin": "Fa'inna lî dzimmatan minhu bitasmiyatî ۞ muḫammadan wahwa aufâl-khalqi bidz-dzimami.",
+                    "terjemahan": "Sebab sesungguhnya aku memiliki jaminan darinya karena namaku adalah Muhammad (penulis Burdah bernama Muhammad bin Zaid). Dan beliau adalah makhluk yang paling menepati janji.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 147,
+                    "arab": "إِنْ لَمْ يَكُنْ فِيْ مَعَادِيْ آخِذًا بِيَدِيْ ۞ فَضْلًا وَإِلَّا فَقُلْ يَا زَلَّةَ الْقَدَمِ",
+                    "latin": "In lam yakun fî ma'âdî âkhidzan biyadî ۞ fadl-lan wa illâ faqul yâ zallatal-qadami.",
+                    "terjemahan": "Jika kelak di hari kiamat beliau tidak menggenggam tanganku (memberi syafaat) sebagai suatu karunia, maka katakanlah: 'Wahai orang yang terpeleset kakinya (celakalah aku)'.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 148,
+                    "arab": "حَاشَاهُ أَنْ يَحْرِمَ الرَّاجِيْ مَكَارِمَهُ ۞ أَوْ يَرْجِعَ الْجَارُ مِنْهُ غَيْرَ مُحْتَرَمِ",
+                    "latin": "Ḫâsyâhu an yaḫrimar-râjî makârimahu ۞ au yarji'al-jâru minhu ghaira muḫtarami.",
+                    "terjemahan": "Maha Suci beliau dari sifat menghalangi orang yang berharap kemuliaannya. Atau membiarkan tetangga (orang yang berlindung padanya) kembali tanpa dihormati.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 149,
+                    "arab": "وَمُنْذُ أَلْزَمْتُ أَفْكَارِيْ مَدَائِحَهُ ۞ وَجَدْتُهُ لِخَلَاصِيْ خَيْرَ مُلْتَزِمِ",
+                    "latin": "Wamundzu alzamtu afkârî madâ'iḫahu ۞ wajadtuhu likhalâshî khaira multazimi.",
+                    "terjemahan": "Dan sejak aku membiasakan pikiranku untuk memuji beliau, aku mendapatinya sebagai sebaik-baik penjamin bagi keselamatanku.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 150,
+                    "arab": "وَلَنْ يَفُوْتَ الْغِنَى مِنْهُ يَدًا تَرِبَتْ ۞ إِنَّ الْحَيَا يُنْبِتُ الْأَزْهَارَ فِي الْأَكَمِ",
+                    "latin": "Walan yafûtal-ghinâ minhu yadan taribat ۞ innal-ḫayâ yunbitul-azhâra fîl-akami.",
+                    "terjemahan": "Dan kekayaan (rahmat) darinya takkan pernah luput dari tangan yang berdebu (miskin). Sesungguhnya hujan itu menumbuhkan bunga-bunga di atas bukit yang keras.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 151,
+                    "arab": "وَلَمْ أُرِدْ زَهْرَةَ الدُّنْيَا الَّتِي اقْتَطَفَتْ ۞ يَدَا زُهَيْرٍ بِمَا أَثْنَى عَلَى هَرِمِ",
+                    "latin": "Walam urid zahratad-dunyallatiqtathafat ۞ yadâ zuhairin bimâ atsnâ 'alâ harimi.",
+                    "terjemahan": "Dan aku tidaklah mengharap kemewahan dunia (dari pujian ini), seperti yang dipetik oleh kedua tangan Zuhair atas pujiannya kepada Harim (Raja yang memberinya hadiah).",
+                    "audio_url": ""
+                }
+            ]
+        },
+        {
+            "fasl_number": 10,
+            "title_id": "Munajat dan Permohonan Ampun",
+            "title_ar": "في المناجاة وعرض الحاجات",
+            "baits": [
+                {
+                    "bait_number": 152,
+                    "arab": "يَا أَكْرَمَ الْخَلْقِ مَا لِيْ مَنْ أَلُوْذُ بِهِ ۞ سِوَاكَ عِنْدَ حُلُوْلِ الْحَادِثِ الْعَمَمِ",
+                    "latin": "Yâ akramal-khalqi mâ lî man alûdzu bihi ۞ siwâka 'inda ḫulûlil-ḫâditsil-'amami.",
+                    "terjemahan": "Wahai makhluk paling mulia, tak ada bagiku tempat berlindung kecuali engkau, tatkala turun bencana yang merata (hari kiamat).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 153,
+                    "arab": "وَلَنْ يَضِيْقَ رَسُوْلَ اللهِ جَاهُكَ بِيْ ۞ إِذَا الْكَرِيْمُ تَجَلَّى بِاسْمِ مُنْتَقِمِ",
+                    "latin": "Walan yadlîqa rasûlallâhi jâhuka bî ۞ idzâl-karîmu tajallâ bismi muntaqimi.",
+                    "terjemahan": "Dan kemuliaanmu wahai Rasulullah, takkan sempit bagiku (untuk membelaku), tatkala Dzat Yang Maha Pemurah menampakkan diri dengan nama-Nya Yang Maha Penyiksa (Kiamat).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 154,
+                    "arab": "فَإِنَّ مِنْ جُوْدِكَ الدُّنْيَا وَضَرَّتَهَا ۞ وَمِنْ عُلُوْمِكَ عِلْمَ اللَّوْحِ وَالْقَلَمِ",
+                    "latin": "Fa'inna min jûdikad-dunyâ wadlarratahâ ۞ wamin 'ulûmika 'ilmal-lauḫi wal-qalami.",
+                    "terjemahan": "Karena sesungguhnya di antara kemurahanmu adalah (adanya) dunia dan madunya (akhirat). Dan di antara ilmumu adalah ilmu (yang tertulis di) Lauhul Mahfudz dan Qalam.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 155,
+                    "arab": "يَا نَفْسُ لَا تَقْنَطِيْ مِنْ زَلَّةٍ عَظُمَتْ ۞ إِنَّ الْكَبَائِرَ فِي الْغُفْرَانِ كَاللَّمَمِ",
+                    "latin": "Yâ nafsu lâ taqnathî min zallatin 'adhumat ۞ innal-kabâ'ira fîl-ghufrâni kal-lamami.",
+                    "terjemahan": "Wahai jiwa, janganlah engkau putus asa karena dosa besar. Sesungguhnya dosa-dosa besar dalam ampunan Allah itu bagaikan dosa-dosa kecil saja.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 156,
+                    "arab": "لَعَلَّ رَحْمَةَ رَبِّيْ حِيْنَ يَقْسِمُهَا ۞ تَأْتِيْ عَلَى حَسَبِ الْعِصْيَانِ فِي الْقِسَمِ",
+                    "latin": "La'alla raḫmata rabbî ḫîna yaqsimuhâ ۞ ta'tî 'alâ ḫasabil-'ishyâni fîl-qisami.",
+                    "terjemahan": "Semoga rahmat Tuhanku ketika dibagi-bagikan, datang sesuai dengan kadar kemaksiatan dalam pembagiannya.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 157,
+                    "arab": "يَا رَبِّ وَاجْعَلْ رَجَائِيْ غَيْرَ مُنْعَكِسٍ ۞ لَدَيْكَ وَاجْعَلْ حِسَابِيْ غَيْرَ مُنْخَرِمِ",
+                    "latin": "Yâ rabbi waj'al rajâ'î ghaira mun'akisin ۞ ladaika waj'al ḫisâbî ghaira munkharimi.",
+                    "terjemahan": "Ya Tuhanku, jadikanlah harapanku tidak berbalik (mengecewakan) di sisi-Mu. Dan jadikanlah perhitunganku (amal) tidak hancur lebur.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 158,
+                    "arab": "وَالْطُفْ بِعَبْدِكَ فِي الدَّارَيْنِ إِنَّ لَهُ ۞ صَبْرًا مَتَى تَدْعُهُ الْأَهْوَالُ يَنْهَزِمِ",
+                    "latin": "Walthuf bi'abdika fîd-dâraini inna lahu ۞ shabran matâ tad'uhul-ahwâlu yanhazimi.",
+                    "terjemahan": "Dan berlemah-lembutlah (kasihanilah) hamba-Mu ini di dua negeri (dunia dan akhirat). Karena sesungguhnya ia memiliki kesabaran yang kapan saja musibah memanggilnya, ia akan terkalahkan (lemah).",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 159,
+                    "arab": "وَائْذَنْ لِسُحْبِ صَلَاةٍ مِنْكَ دَائِمَةٍ ۞ عَلَى النَّبِيِّ بِمُنْهَلٍّ وَمُنْسَجِمِ",
+                    "latin": "Wa'dzan lisuḫbi shalâtin minka dâ'imatin ۞ 'alan-nabiyyi bimunhallin wamunsajimi.",
+                    "terjemahan": "Dan izinkanlah awan sholawat dari-Mu yang terus-menerus abadi, tercurah kepada sang Nabi bagaikan hujan lebat yang mengalir deras.",
+                    "audio_url": ""
+                },
+                {
+                    "bait_number": 160,
+                    "arab": "مَا رَنَّحَتْ عَذَبَاتِ الْبَانِ رِيْحُ صَبَا ۞ وَأَطْرَبَ الْعِيسَ حَادِي الْعِيسِ بِالنَّغَمِ",
+                    "latin": "Mâ rannaḫat 'adzabâtil-bâni rîḫu shabâ ۞ wa athrabal-'îsa ḫâdîl-'îsi bin-naghami.",
+                    "terjemahan": "Selama angin saba masih menggoyangkan ranting-ranting pohon Ban. Dan selama penunggang unta masih menggembirakan untanya dengan senandung nada.",
+                    "audio_url": ""
+                }
+            ]
+        }
+    ]
+}
